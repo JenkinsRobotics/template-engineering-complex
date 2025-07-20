@@ -77,16 +77,16 @@ This project follows the `template-engineering-complex` folder structure, provid
 			├── Feasibility_Studies
 			├── Performance_Analysis
 			└── Failure_Analysis
-├── 04_Procurement_and_Manufacturing
+├── 03_Procurement_and_Manufacturing
 	├── BOMs (Bill_of_Materials)
 	├── Manufacturing_Quotes
 	└── Purchase_Orders_and_Tracking
-├── 05_Testing_and_Validation
+├── 04_Testing_and_Validation
 	├── Test_Plans
 	├── Test_Procedures
 	├── Test_Results
 	└── Test_Reports
-├── 06_Reviews_and_Meetings
+├── 05_Reviews_and_Meetings
 	├── Meeting_Minutes
 		├── Weekly_Tagups
 		└── Action_Items
@@ -96,7 +96,7 @@ This project follows the `template-engineering-complex` folder structure, provid
 		├── CRT (Critical Readiness Review)
 		└── PTR (Production Readiness Review)
 	└── Audit_and_Compliance
-├── 07_Deliverables
+├── 06_Deliverables
 	└── Project_Closeout_Documentation
 └── 99_Archive
 	├── Old_Versions
